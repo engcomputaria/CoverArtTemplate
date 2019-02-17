@@ -1,6 +1,10 @@
 # CoverArtTemplate
 
-Template da Capa dos Episódios do Engenhação da Computaria
+<p align="center">
+  <img src="example.png" style="width: 25%; height: 25%"/>​
+</p>
+
+Template da Capa dos Episódios do [Engenhação da Computaria](https://engcomputaria.github.io)
 
 ## Font
 
