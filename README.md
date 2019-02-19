@@ -1,7 +1,7 @@
 # CoverArtTemplate
 
 <p align="center">
-  <img src="example.png" style="width: 25%; height: 25%"/>​
+  <img src="example.png" height="280" width="280">
 </p>
 
 Template da Capa dos Episódios do [Engenhação da Computaria](https://engcomputaria.github.io)
